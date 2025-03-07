@@ -1,5 +1,6 @@
 .container {
-    background-color: lightblue;
-    padding: 20px;
-    border: 1px solid blue;
+    background-color: lightgreen;
+    padding: 25px;
+    border: 2px solid green;
+    margin: 10px;
 }
